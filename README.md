@@ -1,4 +1,4 @@
-# Parking Lot Manager — Java DSA Practical Project
+# Parking Lot Manager - Java DSA Practical Project
 
 A menu-driven Java console application for managing parking slots, a FIFO waiting line,
 vehicle search, checkout billing, and recent exit history.
